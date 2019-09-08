@@ -1,1 +1,1 @@
-# character_level_RNN
+# Character Level RNN
